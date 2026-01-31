@@ -4,3 +4,5 @@ first-public-commit-base-badge
 
 ## Blockchain Base
 This repository was created to earn my first onchain contribution badge 🚀
+
+Update 1
