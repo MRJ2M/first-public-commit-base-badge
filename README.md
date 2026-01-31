@@ -6,3 +6,4 @@ first-public-commit-base-badge
 This repository was created to earn my first onchain contribution badge 🚀
 
 Update 1
+Update 2
